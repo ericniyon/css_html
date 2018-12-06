@@ -1,0 +1,79 @@
+
+
+
+#nav ul{
+list-style: none;
+float: left;
+margin-left: 80px;
+float: left;
+
+}
+
+.cont{
+background-color: navy;
+}
+#nav ul li{
+    float: left;
+    margin: 30px;
+    text-align: center;
+   
+}
+
+#ns{
+height: 80px;
+background-color: brown;
+}
+#ns ul li{
+float: left;
+margin: 25px;
+padding: 5px;
+}
+#ns ul{
+list-style: none;
+float: left;
+}
+
+.sect{
+background-color: #f1f1f1;
+padding: 15px;
+margin: auto;
+width: 1200px;
+
+}
+
+
+.footer{
+    background-color: brown;
+    height: 45px;
+    width: 1350px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav ul li a :hover{
+color: brown;
+}
